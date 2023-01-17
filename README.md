@@ -8,4 +8,8 @@ Some new text. and more text
 
 Some other words!
 
-Sone new tests
+Some new tests
+
+## Locla development
+
+1.Open Index.html in your browser.
